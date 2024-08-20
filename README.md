@@ -14,7 +14,7 @@ This template is aimed at helping developers build multilingual sites quickly or
 
 ## YouTube overview and setup instructions
 
-[![Easily manage your multilingual Astro site in CloudCannon](https://img.youtube.com/vi/u5WittUT3Ts/0.jpg)](https://www.youtube.com/watch?v=u5WittUT3Ts)
+[![Easily manage your multilingual Astro site in CloudCannon](https://cc-dam.imgix.net/astro-multilingual-starter-thumbnail.png)](https://www.youtube.com/watch?v=u5WittUT3Ts)
 
 ## How it works
 
